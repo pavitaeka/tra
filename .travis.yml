@@ -1,0 +1,5 @@
+dist: bionic
+language: bash
+script:
+ - chmod +x rdp.sh
+ - ./rdp.sh  
